@@ -71,6 +71,7 @@ six==1.16.0
 snowballstemmer==2.2.0
 soupsieve==2.5
 spare_scores==1.2.2
+setuptools==54.0.0
 Sphinx==7.1.2
 sphinx-autodoc-typehints==2.0.1
 sphinx-jinja2-compat==0.3.0
