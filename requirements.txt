@@ -75,7 +75,7 @@ setuptools==54.0.0
 Sphinx==7.4.7
 sphinx-autodoc-typehints==2.0.1
 sphinx-jinja2-compat==0.3.0
-sphinx-prompt==1.7.0
+sphinx-prompt==1.8.0
 sphinx-rtd-theme==2.0.0
 sphinx-tabs==3.4.5
 sphinx-toolbox==3.7.0
