@@ -1,7 +1,7 @@
 name: Deploy static cntent to Pages
 on:
   push:
-    branches: ["main"]
+    branches: ["main", "workflow_testing"]
   
 jobs:
   build-docs:
